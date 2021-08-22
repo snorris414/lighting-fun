@@ -1,0 +1,11 @@
+Model Information:
+* title:	Light Post Obj
+* source:	https://sketchfab.com/3d-models/light-post-obj-3ae75c48741d40baabe632863f09fa5c
+* author:	ajh5se (https://sketchfab.com/ajh5se)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Light Post Obj" (https://sketchfab.com/3d-models/light-post-obj-3ae75c48741d40baabe632863f09fa5c) by ajh5se (https://sketchfab.com/ajh5se) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
